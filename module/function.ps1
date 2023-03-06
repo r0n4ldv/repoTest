@@ -1,3 +1,3 @@
 function Say-Hello() {
-    Write-Host "Hello"
+    Write-Host "Hello Powershell"
 }
